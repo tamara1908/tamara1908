@@ -1,5 +1,5 @@
 ## Olá Seja bem vindo(a), me chamo Tamara! 😊 <h2>
-🖥️ Estou aprendendo a utilizar as ferramentas: Git, GitHub e JavaScript.
+🖥️ Estou aprendendo a utilizar as ferramentas: Git, GitHub e JavaScript,Mocha,Chai e Visual Studio code.
 
 🙂 Pronomes: Ela/Dela
 
