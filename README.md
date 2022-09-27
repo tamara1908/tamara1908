@@ -1,13 +1,11 @@
 ## Olá Seja bem vindo(a), me chamo Tamara! 😊 <h2>
 🖥️ Estou aprendendo a utilizar as ferramentas: 
+  * HTML 
   * Git
   * GitHub
   * JavaScript
-  * Mocha
-  * Chai 
   * Visual Studio code
   * Postman (Testes manuais e automatizados)
-  * Java
  
 <div align="center">
   <a href="https://github.com/tamara1908">
