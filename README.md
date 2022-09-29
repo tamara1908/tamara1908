@@ -1,5 +1,7 @@
-## Olá Seja bem vindo(a), me chamo Tamara! 😊 <h2>
-🖥️ Estou aprendendo a utilizar as ferramentas: 
+<h2> Olá Seja bem vindo(a), me chamo Tamara! 😊 <br>
+ <br>
+ 🖥️ Estou aprendendo a utilizar as ferramentas: </h2>
+
   * HTML 
   * Git
   * GitHub
